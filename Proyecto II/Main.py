@@ -1,10 +1,5 @@
-import BBDD as bd
-import datos_iniciales as di
-from listas import *
+from mis_funciones.menu import menu
+menu()
 
 
 
-
-
-
-print(consultar_playlist("jose"))
